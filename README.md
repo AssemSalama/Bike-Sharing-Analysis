@@ -39,7 +39,7 @@ the basics of time series analysis, and how to identify the best time series mod
 when dealing with nonstationary time series.
 
  ## 📌 The upcoming projects in the series of The Data Analysis Workshop Book by Packt :
- 1. Bike Sharing Analysis ✅
+ 1. Bike Sharing Analysis `Done`✅
  2. Absenteeism at Work
  3. Analyzing Bank Marketing Campaign Data
  4. Tackling Company Bankruptcy
