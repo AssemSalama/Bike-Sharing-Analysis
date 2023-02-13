@@ -30,6 +30,7 @@ apply some of the main data analysis techniques to business scenarios.
 - Investigating the Impact of Weather Conditions on Rides
 
 **Summary :**
+
 we studied a business problem related to bike sharing services. We 
 started by presenting some of the main visual techniques in data analysis, such as 
 bar plots, scatter plots, and time series visualizations. We also analyzed customer 
