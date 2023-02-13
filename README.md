@@ -1,4 +1,4 @@
- ## 📌 This is the 1st_project of 10 projects series in The Data Analysis Workshop Book by Packt :
+ ## 📌 This is the 1st_project of 10 projects series in The Data Analysis Workshop Book by `Packt` :
 
 ### 1️⃣ Project Motive : 
 Analyzing data from bike sharing services,identifying usage patterns depending on time features and weather 
@@ -36,7 +36,7 @@ bar plots, scatter plots, and time series visualizations. We also analyzed custo
 We got introduced to hypothesis testing and some of its main applications. Finally, we presented the basics of time series analysis, and how to identify 
 the best time series models when dealing with nonstationary time series.
 
- ## 📌 The upcoming projects in the series of The Data Analysis Workshop Book by Packt :
+ ## 📌 The upcoming projects in the series of The Data Analysis Workshop Book by `Packt` :
  1. Bike Sharing Analysis `Done`✅
  2. Absenteeism at Work
  3. Analyzing Bank Marketing Campaign Data
