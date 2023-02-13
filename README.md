@@ -33,8 +33,8 @@ apply some of the main data analysis techniques to business scenarios.
 we studied a business problem related to bike sharing services. We 
 started by presenting some of the main visual techniques in data analysis, such as 
 bar plots, scatter plots, and time series visualizations. We also analyzed customer 
-behaviors based on different time frames and weather conditions. We introduced the 
-reader to hypothesis testing and some of its main applications. Finally, we presented 
+behaviors based on different time frames and weather conditions. We got introduced  
+to hypothesis testing and some of its main applications. Finally, we presented 
 the basics of time series analysis, and how to identify the best time series models 
 when dealing with nonstationary time series.
 
