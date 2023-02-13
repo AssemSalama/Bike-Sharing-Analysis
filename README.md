@@ -30,10 +30,10 @@ F) ARIMA Models
 - Investigating the Impact of Weather Conditions on Rides
 
 G) Summary :
-we studied a business problem related to bike sharing services. We started by presenting some of the main visual techniques in data analysis, such as 
-bar plots, scatter plots, and time series visualizations. We also analyzed customer behaviors based on different time frames and weather conditions. 
-We got introduced to hypothesis testing and some of its main applications. Finally, we presented the basics of time series analysis, and how to identify 
-the best time series models when dealing with nonstationary time series.
+we studied a business problem related to bike sharing services. We started by presenting some of the main visual techniques in data analysis,
+such as bar plots, scatter plots, and time series visualizations. We also analyzed customer behaviors based on different time frames and weather
+conditions. We got introduced to hypothesis testing and some of its main applications. Finally, we presented the basics of time series analysis,
+and how to identify the best time series models when dealing with nonstationary time series.
 ```
  ## 📌 The upcoming projects in the series of The Data Analysis Workshop Book by `Packt` :
  1. Bike Sharing Analysis `Done`✅
