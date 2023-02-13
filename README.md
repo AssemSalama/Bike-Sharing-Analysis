@@ -8,7 +8,6 @@ apply some of the main data analysis techniques to business scenarios.
 
 ### ️2️⃣ Project Structure : Chapter 1: Bike Sharing Analysis
 **A) Understanding the Data**
-
 **B) Data Preprocessing**
 - Preprocessing Temporal and Weather Features
 - Registered versus Casual Use Analysis
