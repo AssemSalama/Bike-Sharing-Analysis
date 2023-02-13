@@ -1,5 +1,5 @@
  ## 📌This is the 1st_project of 10 projects series in The Data Analysis Workshop Book by `Packt`:
-```
+
 ### 1️⃣ Project Motive : 
 Analyzing data from bike sharing services,identifying usage patterns depending on time features and weather 
 conditions. Furthermore, applying concepts such as visual analysis, 
@@ -7,6 +7,7 @@ hypothesis testing, and time series analysis to the available data. Finally,work
 apply some of the main data analysis techniques to business scenarios.
 
 ### ️2️⃣ Project Structure : Chapter 1: Bike Sharing Analysis
+```
 A) Understanding the Data
 
 B) Data Preprocessing
@@ -30,10 +31,11 @@ F) ARIMA Models
 - Investigating the Impact of Weather Conditions on Rides
 
 G) Summary :
-we studied a business problem related to bike sharing services. We started by presenting some of the main visual techniques in data analysis,
-such as bar plots, scatter plots, and time series visualizations. We also analyzed customer behaviors based on different time frames and weather
-conditions. We got introduced to hypothesis testing and some of its main applications. Finally, we presented the basics of time series analysis,
-and how to identify the best time series models when dealing with nonstationary time series.
+we studied a business problem related to bike sharing services. We started by presenting some of the main visual techniques
+in data analysis,such as bar plots, scatter plots, and time series visualizations. We also analyzed customer behaviors based
+on different time frames and weatherconditions. We got introduced to hypothesis testing and some of its main applications. 
+Finally, we presented the basics of time series analysis,and how to identify the best time series models when dealing with 
+nonstationary time series.
 ```
  ## 📌 The upcoming projects in the series of The Data Analysis Workshop Book by `Packt` :
  1. Bike Sharing Analysis `Done`✅
