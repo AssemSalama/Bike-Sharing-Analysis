@@ -1,7 +1,7 @@
  ## 📌 This is the 1st_project of 10 projects series in The Data Analysis Workshop Book by Packt :
 
-### 1️⃣ Project Motive : Analyzing data from bike sharing services 
-,identifying usage patterns depending on time features and weather 
+### 1️⃣ Project Motive : 
+Analyzing data from bike sharing services,identifying usage patterns depending on time features and weather 
 conditions. Furthermore, applying concepts such as visual analysis, 
 hypothesis testing, and time series analysis to the available data. Finally,working with time series data and 
 apply some of the main data analysis techniques to business scenarios.
