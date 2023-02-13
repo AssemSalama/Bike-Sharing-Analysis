@@ -10,32 +10,26 @@ apply some of the main data analysis techniques to business scenarios.
 **Understanding the Data :**
 
 **Data Preprocessing**
-
 - Preprocessing Temporal and Weather Features
 - Registered versus Casual Use Analysis
 - Analyzing Seasonal Impact on Rides
-- 
-**Hypothesis Tests**
 
+**Hypothesis Tests**
 - Estimating Average Registered Rides
 - Hypothesis Testing on Registered Rides
-- 
-**Analysis of Weather-Related Features**
 
+**Analysis of Weather-Related Features**
 - Evaluating the Difference between the Pearson and Spearman Correlations.
 - Correlation Matrix Plot
-- 
+
 **Time Series Analysis**
-
 - Time Series Decomposition in Trend, Seasonality, and Residual Components.
-- 
-**ARIMA Models**
 
+**ARIMA Models**
 - ACF and PACF Plots for Registered Rides
 - Investigating the Impact of Weather Conditions on Rides
-- 
-**Summary :**
 
+**Summary :**
 we studied a business problem related to bike sharing services. We 
 started by presenting some of the main visual techniques in data analysis, such as 
 bar plots, scatter plots, and time series visualizations. We also analyzed customer 
