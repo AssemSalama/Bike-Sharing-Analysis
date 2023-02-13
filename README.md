@@ -22,10 +22,10 @@ apply some of the main data analysis techniques to business scenarios.
 - Evaluating the Difference between the Pearson and Spearman Correlations.
 - Correlation Matrix Plot
 
-**C) Time Series Analysis**
+**E) Time Series Analysis**
 - Time Series Decomposition in Trend, Seasonality, and Residual Components.
 
-**D) ARIMA Models**
+**F) ARIMA Models**
 - ACF and PACF Plots for Registered Rides
 - Investigating the Impact of Weather Conditions on Rides
 
@@ -37,3 +37,15 @@ behaviors based on different time frames and weather conditions. We introduced t
 reader to hypothesis testing and some of its main applications. Finally, we presented 
 the basics of time series analysis, and how to identify the best time series models 
 when dealing with nonstationary time series.
+
+ ## 📌 The upcoming projects in the series of The Data Analysis Workshop Book by Packt :
+ 1. Bike Sharing Analysis ✅
+ 2. Absenteeism at Work
+ 3. Analyzing Bank Marketing Campaign Data
+ 4. Tackling Company Bankruptcy
+ 5. Analyzing the Online Shopper's Purchasing Intention
+ 6. Analysis of Credit Card Defaulters
+ 7. Analyzing the Heart Disease Dataset
+ 8. Analyzing Online Retail II Dataset
+ 9. Analysis of the Energy Consumed by Appliances 
+ 10. Analyzing Air Quality
