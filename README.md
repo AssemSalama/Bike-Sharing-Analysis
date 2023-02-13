@@ -7,30 +7,29 @@ hypothesis testing, and time series analysis to the available data. Finally,work
 apply some of the main data analysis techniques to business scenarios.
 
 ### ️2️⃣ Project Structure : Chapter 1: Bike Sharing Analysis
-**Understanding the Data :**
+**A) Understanding the Data**
 
-**Data Preprocessing**
+**B) Data Preprocessing**
 - Preprocessing Temporal and Weather Features
 - Registered versus Casual Use Analysis
 - Analyzing Seasonal Impact on Rides
 
-**Hypothesis Tests**
+**C) Hypothesis Tests**
 - Estimating Average Registered Rides
 - Hypothesis Testing on Registered Rides
 
-**Analysis of Weather-Related Features**
+**D) Analysis of Weather-Related Features**
 - Evaluating the Difference between the Pearson and Spearman Correlations.
 - Correlation Matrix Plot
 
-**Time Series Analysis**
+**C) Time Series Analysis**
 - Time Series Decomposition in Trend, Seasonality, and Residual Components.
 
-**ARIMA Models**
+**D) ARIMA Models**
 - ACF and PACF Plots for Registered Rides
 - Investigating the Impact of Weather Conditions on Rides
 
 **Summary :**
-
 we studied a business problem related to bike sharing services. We 
 started by presenting some of the main visual techniques in data analysis, such as 
 bar plots, scatter plots, and time series visualizations. We also analyzed customer 
